@@ -1,0 +1,23 @@
+type project
+owners
+    Britt Mathis
+authors 
+    Britt Mathis
+projectUrl
+    http://github.com/bmuk/BmukIO
+iconUrl
+    https://raw.githubusercontent.com/bmuk/BmukIO/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/bmuk/BmukIO/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    blog web
+summary
+    bmuk.io blog
+description
+    bmuk.io blog
+
+

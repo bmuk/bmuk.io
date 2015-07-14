@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace BmukIO
 
 /// Documentation for my library
 ///

@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module BmukIO.Tests
 
-open FSharp.ProjectTemplate
+open BmukIO
 open NUnit.Framework
 
 [<Test>]
