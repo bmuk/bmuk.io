@@ -3,11 +3,13 @@ NUGET
   specs:
     FAKE (3.36.0)
     FSharp.Compiler.Service (1.3.1.0)
+    FSharp.Core (3.1.2.1)
     FSharp.Formatting (2.9.10)
       FSharp.Compiler.Service (>= 0.0.87)
       FSharpVSPowerTools.Core (1.8.0)
     FSharpVSPowerTools.Core (1.8.0)
       FSharp.Compiler.Service (>= 0.0.87)
+    FsPickler (1.2.14)
     Microsoft.Bcl (1.1.10)
       Microsoft.Bcl.Build (>= 1.0.14)
     Microsoft.Bcl.Build (1.0.21)
@@ -19,8 +21,11 @@ NUGET
     Octokit (0.13.0)
       Microsoft.Net.Http
     SourceLink.Fake (1.0.0)
+    Suave (0.29.1)
+      FSharp.Core (>= 3.1.2.1)
+      FsPickler (>= 1.2.5)
 GITHUB
   remote: fsharp/FAKE
   specs:
-    modules/Octokit/Octokit.fsx (de594fb662e94af131ff31acbeead804cba3a52b)
+    modules/Octokit/Octokit.fsx (1a9b971672770e00198a86b054e15f9a6dec0d64)
       Octokit
